@@ -1,14 +1,11 @@
 <div align="center">
 
 # 👋 Salut, je suis Gabriel !
-
-### 💻 Étudiant Développeur Web | BTS SIO
+### Étudiant Développeur Web | BTS SIO
 
 ---
 
-</div>
-
-## 🚀 À propos de moi
+## À propos de moi
 
 🎓 Actuellement en **BTS SIO** (Services Informatiques aux Organisations)  
 💡 Passionné par le **développement web** et les **nouvelles technologies**  
@@ -29,6 +26,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### **Outils & Technologies**
 
@@ -54,23 +53,19 @@
 
 ---
 
-## 🎯 Projets Principaux
+## Projets Principaux
 
 ### 🍽️ [Platform Recette](https://github.com/JLFrozy/platformrecette)
 > Plateforme de partage de recettes de cuisine  
 **Technologies :** Node.js, EJS, Express
 
-### 🏨 [Hotel California PHP](https://github.com/JLFrozy/hotel_california_php)
-> Système de gestion hôtelière  
-**Technologies :** PHP, MySQL
+### 🏨 [Hotel California NodeJS](https://github.com/JulianSLLR/ResaHotelCaliforniaV2)
+> Système de gestion hôtelière moderne  
+**Technologies :** Node.js, Express, EJS, Tailwind CSS
 
-### 🎨 [Portfolio](https://github.com/JLFrozy/portfolio)
+### 🎨 [Portfolio](https://portfolio-gabriel-two-amber.vercel.app/about?fbclid=PARlRTSAMhExZleHRuA2FlbQIxMAABp20H4RgQ7r4BK702cSrXvq-ynVBGFHK0uRkhUJgcFZ2wTqbYYXkN0oFeUUIF_aem_kVWgRlpK-Hu6uJMBx60nFg)
 > Mon portfolio personnel  
 **Technologies :** Vue.js, CSS3
-
-### 🍹 [Drink Website](https://github.com/JLFrozy/drinkwebsite)
-> Site web de cocktails et boissons  
-**Technologies :** HTML, CSS, JavaScript
 
 ---
 
@@ -84,33 +79,24 @@
 
 ---
 
-## 🌐 Connectons-nous !
+## Connectons-nous
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-JLFrozy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JLFrozy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-da-silva-peixoto)
 
 ### 📧 Contact Professionnel
 
 **Email :** gabriel.contact@exemple.fr  
-
-💼 Ouvert aux opportunités de stage et d'alternance !
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Citation du jour
-
-*"Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais."* – Cory House
+Ouvert aux opportunités de stage et d'alternance
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JLFrozy&color=brightgreen&style=for-the-badge)
 
-**Merci de visiter mon profil ! N'hésitez pas à explorer mes projets. 🚀**
+**Merci de visiter mon profil !**
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
