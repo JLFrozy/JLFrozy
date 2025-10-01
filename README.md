@@ -47,7 +47,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLFrozy&theme=tokyonight&hide_border=true&background=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLFrozy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
