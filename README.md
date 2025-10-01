@@ -1,13 +1,13 @@
 <div align="center">
 
 # 👋 Salut, je suis Gabriel !
-### Étudiant Développeur Web | BTS SIO
+### Étudiant Développeur Web | BTS SIO SLAM
 
 ---
 
 ## À propos de moi
 
-🎓 Actuellement en **BTS SIO** (Services Informatiques aux Organisations)  
+🎓 Actuellement en **BTS SIO** (Services Informatiques aux Organisations) SLAM
 💡 Passionné par le **développement web** et les **nouvelles technologies**  
 🌱 En apprentissage constant pour améliorer mes compétences  
 🎯 Objectif : Devenir **Développeur Full Stack** professionnel
@@ -97,6 +97,6 @@ Ouvert aux opportunités de stage et d'alternance
 
 **Merci de visiter mon profil !**
 
-![Coding]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.redd.it/njjzqnbdy1na1.gif))
+![Coding](https://i.redd.it/njjzqnbdy1na1.gif)
 
 </div>
