@@ -88,7 +88,7 @@
 
 ### 📧 Contact Professionnel
 
-**Email :** gabriel.contact@exemple.fr  
+**Email :** gabrieldasilvalogin@gmail.com 
 Ouvert aux opportunités de stage et d'alternance
 
 ---
@@ -97,6 +97,6 @@ Ouvert aux opportunités de stage et d'alternance
 
 **Merci de visiter mon profil !**
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.redd.it/njjzqnbdy1na1.gif))
 
 </div>
