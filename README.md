@@ -51,7 +51,7 @@
 
 ## Projets Principaux
 
-### 📝 [TodoListAPI2 - Architecture MVC](https://github.com/JLFrozy/TodoListAPI2)
+### 📝 [TodoListAPI2 - Architecture MVC](https://github.com/JLFrozy/TodoListAPIMVC)
 
 > API REST de gestion de tâches avec architecture MVC (Model-View-Controller)
 
