@@ -7,7 +7,7 @@
 
 ## À propos de moi
 
-🎓 Actuellement en **BTS SIO** (Services Informatiques aux Organisations) SLAM
+🎓 Actuellement en **BTS SIO** (Services Informatiques aux Organisations) SLAM  
 💡 Passionné par le **développement web** et les **nouvelles technologies**  
 🌱 En apprentissage constant pour améliorer mes compétences  
 🎯 Objectif : Devenir **Développeur Full Stack** professionnel
@@ -17,7 +17,6 @@
 ## 🛠️ Compétences Techniques
 
 ### **Langages & Frameworks**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,7 +29,6 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### **Outils & Technologies**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -47,23 +45,63 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLFrozy&theme=tokyonight&hide_border=true&background=0D1117)
 
-
 </div>
 
 ---
 
 ## Projets Principaux
 
-### 🍽️ [Platform Recette](https://github.com/JLFrozy/platformrecette)
-> Plateforme de partage de recettes de cuisine  
-**Technologies :** Node.js, EJS, Express
+### 📝 [TodoListAPI2 - Architecture MVC](https://github.com/JLFrozy/TodoListAPI2)
+
+> API REST de gestion de tâches avec architecture MVC (Model-View-Controller)
+
+**📁 Structure du projet**
+```
+api/
+├── models/
+│   └── Todo.js              # Modèle - Classe Todo avec validation
+├── controllers/
+│   └── todoController.js    # Contrôleur - Logique métier
+├── routes/
+│   └── todoRouter.js        # Routeur - Définition des endpoints REST
+├── server.js                # Point d'entrée - Configuration Express
+├── package.json             # Configuration npm
+└── README.md                # Documentation
+```
+
+**🏗️ Architecture MVC**
+- **Model** (`models/Todo.js`) : Classe `Todo` avec champs privés (#id, #name, #priority, #done), getters/setters avec validation
+- **Controller** (`controllers/todoController.js`) : Logique métier séparée des routes, gestion des erreurs
+- **Router** (`routes/todoRouter.js`) : Définition des routes REST, liaison entre endpoints et contrôleurs
+- **Server** (`server.js`) : Configuration Express (CORS, JSON parsing)
+
+**📚 Endpoints disponibles**
+- `GET /api/todos` - Récupérer toutes les tâches
+- `GET /api/todos/:id` - Récupérer une tâche par ID
+- `POST /api/todos` - Créer une nouvelle tâche
+- `PUT /api/todos/:id` - Remplacer complètement une tâche
+- `PATCH /api/todos/:id` - Modifier partiellement une tâche
+- `DELETE /api/todos/:id` - Supprimer une tâche
+
+**🎯 Avantages**
+1. **Séparation des responsabilités** : Chaque fichier a un rôle précis
+2. **Maintenabilité** : Code plus facile à modifier et à tester
+3. **Réutilisabilité** : Les contrôleurs peuvent être utilisés par plusieurs routes
+4. **Scalabilité** : Facile d'ajouter de nouvelles fonctionnalités
+5. **Testabilité** : Les contrôleurs peuvent être testés indépendamment
+
+**Technologies :** Node.js, Express, Architecture MVC
 
 ### 🏨 [Hotel California NodeJS](https://github.com/JulianSLLR/ResaHotelCaliforniaV2)
-> Système de gestion hôtelière moderne  
+
+> Système de gestion hôtelière moderne
+  
 **Technologies :** Node.js, Express, EJS, Tailwind CSS
 
 ### 🎨 [Portfolio](https://portfolio-gabriel-two-amber.vercel.app/about?fbclid=PARlRTSAMhExZleHRuA2FlbQIxMAABp20H4RgQ7r4BK702cSrXvq-ynVBGFHK0uRkhUJgcFZ2wTqbYYXkN0oFeUUIF_aem_kVWgRlpK-Hu6uJMBx60nFg)
-> Mon portfolio personnel  
+
+> Mon portfolio personnel
+  
 **Technologies :** Vue.js, CSS3
 
 ---
@@ -83,11 +121,13 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-JLFrozy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JLFrozy)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-da-silva-peixoto)
 
 ### 📧 Contact Professionnel
 
 **Email :** gabrieldasilvalogin@gmail.com 
+
 Ouvert aux opportunités de stage et d'alternance
 
 ---
