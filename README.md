@@ -55,42 +55,6 @@
 
 > API REST de gestion de tâches avec architecture MVC (Model-View-Controller)
 
-**📁 Structure du projet**
-```
-api/
-├── models/
-│   └── Todo.js              # Modèle - Classe Todo avec validation
-├── controllers/
-│   └── todoController.js    # Contrôleur - Logique métier
-├── routes/
-│   └── todoRouter.js        # Routeur - Définition des endpoints REST
-├── server.js                # Point d'entrée - Configuration Express
-├── package.json             # Configuration npm
-└── README.md                # Documentation
-```
-
-**🏗️ Architecture MVC**
-- **Model** (`models/Todo.js`) : Classe `Todo` avec champs privés (#id, #name, #priority, #done), getters/setters avec validation
-- **Controller** (`controllers/todoController.js`) : Logique métier séparée des routes, gestion des erreurs
-- **Router** (`routes/todoRouter.js`) : Définition des routes REST, liaison entre endpoints et contrôleurs
-- **Server** (`server.js`) : Configuration Express (CORS, JSON parsing)
-
-**📚 Endpoints disponibles**
-- `GET /api/todos` - Récupérer toutes les tâches
-- `GET /api/todos/:id` - Récupérer une tâche par ID
-- `POST /api/todos` - Créer une nouvelle tâche
-- `PUT /api/todos/:id` - Remplacer complètement une tâche
-- `PATCH /api/todos/:id` - Modifier partiellement une tâche
-- `DELETE /api/todos/:id` - Supprimer une tâche
-
-**🎯 Avantages**
-1. **Séparation des responsabilités** : Chaque fichier a un rôle précis
-2. **Maintenabilité** : Code plus facile à modifier et à tester
-3. **Réutilisabilité** : Les contrôleurs peuvent être utilisés par plusieurs routes
-4. **Scalabilité** : Facile d'ajouter de nouvelles fonctionnalités
-5. **Testabilité** : Les contrôleurs peuvent être testés indépendamment
-
-**Technologies :** Node.js, Express, Architecture MVC
 
 ### 🏨 [Hotel California NodeJS](https://github.com/JulianSLLR/ResaHotelCaliforniaV2)
 
