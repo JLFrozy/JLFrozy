@@ -51,7 +51,7 @@
 
 ## Projets Principaux
 
-### 📝 [TodoListAPI2 - Architecture MVC](https://github.com/JLFrozy/TodoListAPIMVC)
+### 📝 [TodoListAPI2 - Architecture MVC](https://github.com/frozyCODE/TodoListAPIMVC)
 
 > API REST de gestion de tâches avec architecture MVC (Model-View-Controller)
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JLFrozy&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=frozyCODE&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
 </div>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-JLFrozy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JLFrozy)
+[![GitHub](https://img.shields.io/badge/GitHub-frozyCODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JLFrozy)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-da-silva-peixoto)
 
@@ -96,7 +96,7 @@ Ouvert aux opportunités de stage et d'alternance
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=JLFrozy&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=frozyCODE&color=brightgreen&style=for-the-badge)
 
 **Merci de visiter mon profil !**
 
