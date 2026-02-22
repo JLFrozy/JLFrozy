@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Salut, je suis Gabriel !
-### Étudiant Développeur Web | BTS SIO SLAM
+### Étudiant Développeur | BTS SIO SLAM
 
 ---
 
