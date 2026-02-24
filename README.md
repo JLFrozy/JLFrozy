@@ -7,14 +7,14 @@
 
 ## À propos de moi
 
-🎓 Actuellement en **BTS SIO** (Services Informatiques aux Organisations) SLAM  
-💡 Passionné par le **développement web** et les **nouvelles technologies**  
-🌱 En apprentissage constant pour améliorer mes compétences  
-🎯 Objectif : Devenir **Développeur Full Stack** professionnel
+Actuellement en **BTS SIO** (Services Informatiques aux Organisations) SLAM  
+Passionné par le **développement web** et les **nouvelles technologies**  
+En apprentissage constant pour améliorer mes compétences  
+Objectif : Devenir **Développeur Full Stack** professionnel
 
 ---
 
-## 🛠️ Compétences Techniques
+## Compétences Techniques
 
 ### **Langages & Frameworks**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,39 +34,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JLFrozy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLFrozy&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## Projets Principaux
-
-### 📝 [TodoListAPI2 - Architecture MVC](https://github.com/frozyCODE/TodoListAPIMVC)
-
-> API REST de gestion de tâches avec architecture MVC (Model-View-Controller)
-
-
-### 🏨 [Hotel California NodeJS](https://github.com/JulianSLLR/ResaHotelCaliforniaV2)
-
-> Système de gestion hôtelière moderne
-  
-**Technologies :** Node.js, Express, EJS, Tailwind CSS
-
-### 🎨 [Portfolio](https://portfolio-gabriel-two-amber.vercel.app/about?fbclid=PARlRTSAMhExZleHRuA2FlbQIxMAABp20H4RgQ7r4BK702cSrXvq-ynVBGFHK0uRkhUJgcFZ2wTqbYYXkN0oFeUUIF_aem_kVWgRlpK-Hu6uJMBx60nFg)
-
-> Mon portfolio personnel
-  
-**Technologies :** Vue.js, CSS3
 
 ---
 
