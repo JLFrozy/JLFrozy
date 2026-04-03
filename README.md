@@ -37,16 +37,6 @@ Objectif : Devenir **Développeur Full Stack** professionnel
 
 ---
 
-## 📈 Activité GitHub
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=frozyCODE&theme=tokyo-night&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ## Connectons-nous
 
 <div align="center">
