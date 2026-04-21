@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, je suis Gabriel !
+# Salut !
 ### Étudiant Développeur | BTS SIO SLAM
 
 ---
@@ -10,7 +10,8 @@
 Actuellement en **BTS SIO** (Services Informatiques aux Organisations) SLAM  
 Passionné par le **développement web** et les **nouvelles technologies**  
 En apprentissage constant pour améliorer mes compétences  
-Objectif : Devenir **Développeur Full Stack** professionnel
+Goal : Devenir **Développeur Full Stack**
+Je suis actuellement à la recherche d'une alternance pour un Bac+3
 
 ---
 
